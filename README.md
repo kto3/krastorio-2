@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED TO [SOURCEHUT](https://git.sr.ht/~raiguard/Krastorio2)
+
 ![](.github/images/main.png)
 ![](.github/images/explanation.png)
 
